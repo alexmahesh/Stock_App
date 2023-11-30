@@ -43,7 +43,7 @@ with st.sidebar:
                 Die Seite verwendet das kostenlose Hosting-Angebot von [Streamlit](https://streamlit.io/). Nähere Informationen zu deren Datenschutzangaben finden sie unter: [Streamlit Privacy Policy]().<br>
                 <br>
                 __Haftungsausschluss__<br>
-                Es wird keine Garantie für die Richtigkeit der hier dargestellten Daten und Zusammenhänge übernommen.
+                Es wird keine Garantie für die Richtigkeit der hier dargestellten Daten übernommen.
                 </small>''',
                 unsafe_allow_html = True)
 
