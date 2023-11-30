@@ -22,6 +22,8 @@ with st.sidebar:
                    Wenn nur ein oder zwei Aktienverläufe angezeigt werden sollen, können 
                    Felder leer gelassen werden.<br>
                 2. Das Start-Datum muss vor dem End-Datum liegen.<br>
+                3. Gültige Ticker-Symbole sind z.B.: GOOG für Google, AAPL für Apple, MSFT für Microsoft oder AMZN für Amazon.<br>
+                   Weitere Symbole können z.B. auf der [Yahoo-Seite](https://finance.yahoo.com/) gefunden werden.<br>
                 <br>
                 __Allgemeines__<br>
                 Dieses Dashboard verwendet [Python](https://www.python.org/), [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/) und [yfinance](https://pypi.org/project/yfinance/).<br>
