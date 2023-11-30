@@ -19,7 +19,8 @@ with st.sidebar:
     
     st.markdown('''<small>__Anleitung__<br>
                 1. In die Ticker-Symbol Felder müssen gültige Symbole eingetragen werden.  
-                   Einzelne Felder können leer gelassen werden.<br>
+                   Wenn nur ein oder zwei Aktienverläufe angezeigt werden sollen, können 
+                   Felder leer gelassen werden.<br>
                 2. Das Start-Datum muss vor dem End-Datum liegen.<br>
                 <br>
                 __Allgemeines__<br>
